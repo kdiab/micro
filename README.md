@@ -1,6 +1,12 @@
 # Clone
-    ```git clone git@github.com:kdiab/micro.git```
+    ```
+    git clone git@github.com:kdiab/micro.git
+    ```
 # Install Dependancies
-    ```npm install```
+    ```
+    npm install
+    ```
 # Start
-    ```npx expo start```
+    ```
+    npx expo start
+    ```
